@@ -155,4 +155,7 @@ console.log(arthur)
 //GIT
 // First thing is initialize the git repo by ``` git init ```
 // Second is to check git status ```git status```
-// Third is to stage our commit 
+// Third is to stage our commit ```git add -A``` A means all files will be staged
+// Fourth is to check git status again ```git status```
+// Fifth is commit ```git commit -m "some message that described what you did in file"```
+// Sixth is to check git status again ```git status```
