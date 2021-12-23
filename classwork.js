@@ -159,3 +159,7 @@ console.log(arthur)
 // Fourth is to check git status again ```git status```
 // Fifth is commit ```git commit -m "some message that described what you did in file"```
 // Sixth is to check git status again ```git status```
+// Seventh is to add the origin ```git remote add origin https://github.com/dannguyen9219/w03d01-madeline.git```
+// Eight is to add branch main ```git branch -M main```
+// Ninth is to push to main ```git push -u origin main```
+// Done
